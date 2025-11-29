@@ -1,6 +1,8 @@
 # MY-PORTFOLIO-3
 **Web Development, Lab Assignmnet-3**
+
 **🔖 Steps to View Responsive Behavior**
+
 Follow these steps to verify how the website responds across different screen sizes:
 1. Open the website: Open index.html in any modern browser
 OR
